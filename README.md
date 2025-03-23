@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharani204&label=Profile%20views&color=0e75b6&style=flat" alt="dharani204" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharani204" alt="dharani204" /></a> </p>
-<img align="right" alt="coding" width"400" src"https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif"><img align="right" alt="coding" width"400" src"https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif"><img align="right" alt="coding" width"400" src"https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
+<img align="right" alt="coding" width"400" src"https://assets-v2.lottiefiles.com/a/f75ac2f2-116a-11ee-aa38-a35154041321/UTSEH078Aw.gif"><img align="right" alt="coding" width"400" src"https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif"><img align="right" alt="coding" width"400" src"https://media.tenor.com/QVC1Nmb9TwUAAAAC/coding.gif">
 - 🔭 I’m currently working on python **Quiz game using python**
 
 - 🌱 I’m currently learning **Pandas**
