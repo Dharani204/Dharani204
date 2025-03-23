@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharani204&label=Profile%20views&color=0e75b6&style=flat" alt="dharani204" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=dharani204" alt="dharani204" /></a> </p>
-<img align="right" alt="coding" width"400" src"https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
+<img align="right" alt="coding" width="400" src"https://images.lemonly.com/wp-content/uploads/2018/08/07150313/Homebase_Thumb_v01.gif">
 - 🔭 I’m currently working on python **Quiz game using python**
 
 - 🌱 I’m currently learning **Pandas**
