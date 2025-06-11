@@ -1,4 +1,4 @@
-![logo]("C:\Users\Soni\Downloads\github background pic.png")
+![logo](https://github.com/Dharani204/Dharani204/blob/main/github%20banner.png)
 <h1 align="center">Hi 👋, I'm Dharani Buddala</h1>
 <h3 align="center">A passionate Data Analyst Developer from India</h3>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=dharani204&label=Profile%20views&color=0e75b6&style=flat" alt="dharani204" /> </p>
